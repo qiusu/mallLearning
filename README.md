@@ -1,12 +1,6 @@
-# mallLearning
-mall练习
-
-# mallLearning
-mall练习
 
 # mall-tiny-01
 mall学习代码1
-
 
 与原代码中不一样的地方
 在pom文件中，将Mybatis生成器 版本改成1.3.7 ,如果是1.3.3并且在 generatorConfig.xml中使用下面这段 xml时覆盖原文件  则会在生成代码的时候报错，报错原因：UnmergeableXmlMappersPlugin 类找不到
